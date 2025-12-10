@@ -1,0 +1,47 @@
+# Xcode
+*.xcodeproj/project.xcworkspace
+*.xcodeproj/xcuserdata
+*.xcodeproj/xcshareddata/
+*.xcworkspace/xcuserdata
+*.xcworkspace/xcshareddata/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build artifacts
+*.o
+*.lo
+*.la
+*.so
+*.dylib
+*.a
+*.exe
+*.out
+*.app
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Documentation
+docs/
+
+# Debug
+*.dSYM/
+debug/
+release/
+
+# Packages
+Package.resolved

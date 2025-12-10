@@ -1,11 +1,6 @@
-//
-//  WelltechApp.swift
-//  Welltech
-//
-//  Created by tomtomtom on 12/9/25.
-//
-
+import ComposableArchitecture
 import SwiftUI
+import CoreDependencies
 
 @main
 struct WelltechApp: App {
